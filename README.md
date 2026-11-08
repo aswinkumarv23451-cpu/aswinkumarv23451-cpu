@@ -242,7 +242,7 @@ I believe in learning by building. My portfolio reflects my progress through pra
         <li>Correlation analysis</li>
         <li>Visual storytelling through charts</li>
       </ul>
-      <p><a href="https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/02_Matplotlib/World_Happiness_Analysis">🔗 Explore Project</a></p>
+      <p><a href="https://github.com/aswinkumarv23451-cpu/data-science-practice/blob/main/mini_projects/02_Matplotlib/README.md">🔗 Explore Project</a></p>
     </td>
   </tr>
 </table>
