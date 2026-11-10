@@ -1,35 +1,32 @@
 # 👋 Hi, I'm ASWIN KUMAR V
 
-### AI & Data Science Student | Aspiring AI/ML Engineer | Software Development Enthusiast
+B.Tech AI & Data Science Student | Aspiring AI/ML Engineer | Software Development Enthusiast
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&width=700&lines=Exploring+Artificial+Intelligence;Building+Practical+Data+Science+Projects;Strengthening+Programming+Fundamentals;Learning+Software+Development;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&width=700&lines=Exploring+Artificial+Intelligence;Building+Data+Science+Projects;Developing+Python+Applications;Strengthening+Computer+Science+Fundamentals;Turning+Data+Into+Meaningful+Insights" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a **II Year B.Tech student in Artificial Intelligence and Data Science**, passionate about technology, analytical thinking, and building practical solutions.
+I'm a II Year B.Tech student in Artificial Intelligence and Data Science, interested in building practical solutions through programming, data analysis, and emerging technologies.
 
-My learning journey focuses on developing strong computer science fundamentals while exploring Data Science, Artificial Intelligence, and Software Development.
+My current focus is on strengthening computer science fundamentals, developing Python-based projects, and gaining practical experience in Data Science.
 
 - 🎓 B.Tech — Artificial Intelligence and Data Science.
-- 💻 Building programming fundamentals through hands-on practice.
-- 📊 Developing practical experience through Data Science projects.
-- 🧠 Learning Object-Oriented Programming and Data Structures.
-- 🗄️ Familiar with DBMS and SQL fundamentals.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 🌐 Exploring web technologies and software development.
-- 🎯 Career interests: AI/ML Engineering and Software Development.
+- 💻 Practising programming through Python applications and problem-solving.
+- 📊 Building data analysis projects using NumPy, Pandas, Matplotlib and Seaborn.
+- 🧠 Learning Data Structures, Algorithms and Object-Oriented Programming.
+- 🗄️ Developing my understanding of DBMS and SQL.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌐 Interested in software and web application development.
 
-**My approach:** Learn the fundamentals, apply them through projects, and continuously improve.
+My approach: Understand the fundamentals, implement what I learn, and improve through projects.
 
 ---
 
-## 💻 Programming Languages
-
-*Foundational knowledge through college coursework, tutorials, and practical exercises.*
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-283593?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -38,67 +35,42 @@ My learning journey focuses on developing strong computer science fundamentals w
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </p>
 
-| Language | Current Knowledge |
+|Language| Practical Focus|
 |---|---|
-| C | Programming fundamentals and Data Structures |
-| C++ | Programming fundamentals and OOP concepts |
-| Python | Basics and practical application development |
-| Java | Very basic programming fundamentals |
+|C| Programming fundamentals and data structures|
+|C++| Programming fundamentals and OOP concepts|
+|Python| Core programming, console applications and data analysis|
+|Java| Basic programming fundamental|
 
 ---
 
-## 🌐 Web Development
-
-*Foundational knowledge and future learning interests.*
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-**Next to learn:**
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-</p>
-
----
-
-## 📊 Data Science & Analytics
-
-*Building practical experience through data analysis projects.*
+### 📊 Data Science & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-**Next to learn:**
+**Practical experience through projects:**
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
-</p>
-
-Areas of interest:
-- Numerical computing and data manipulation
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Data visualization
-- Correlation and pattern analysis
-- Extracting insights from real-world datasets
+- Numerical computing and array operations with NumPy.
+- Data cleaning, filtering, grouping and aggregation using Pandas.
+- Exploratory Data Analysis (EDA).
+- Statistical analysis and correlation.
+- Data visualization with Matplotlib and Seaborn.
+- Customer analysis and RFM-based segmentation.
+- Interpreting analytical results and communicating insights.
 
 ---
 
-## 🤖 Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning
 
-*Developing foundational knowledge and preparing for deeper practical learning.*
+Currently developing my foundations in AI and Machine Learning, with an interest in understanding algorithms and building practical applications.
 
-### Learning Focus
+Learning Focus
 
 - Machine Learning fundamentals
 - Supervised and Unsupervised Learning
@@ -109,26 +81,22 @@ Areas of interest:
 - Natural Language Processing
 - Computer Vision
 
-### Technologies to Explore
+Technologies to Explore
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ---
 
-## 🧠 Generative AI & Emerging Technologies
+### 🧠 Generative AI & Emerging Technologies
 
-*Future learning interests.*
+Interested in exploring modern AI systems and understanding how they can be applied to real-world problems.
 
-I'm interested in understanding and building applications with modern AI technologies, including:
-
-- Generative AI
-- Large Language Models (LLMs)
+- Generative AI and Large Language Models
 - Prompt Engineering
 - Retrieval-Augmented Generation (RAG)
 - AI Agents and Agentic AI
@@ -136,7 +104,7 @@ I'm interested in understanding and building applications with modern AI technol
 - AI-powered applications
 - API-based AI integration
 
-### Technologies to Explore
+Technologies to Explore
 
 <p>
   <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
@@ -146,42 +114,53 @@ I'm interested in understanding and building applications with modern AI technol
 
 ---
 
-## 🗄️ Database Management
+### 🌐 Web Development
 
-*Foundational knowledge and planned technology learning.*
+Interested in understanding how complete web applications are designed and developed.
 
-### Current Knowledge
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/DBMS-34495E?style=for-the-badge&logoColor=white" alt="DBMS" />
-</p>
-
-- Database Management System fundamentals
-- SQL queries and relational database concepts
-
-### Next to Learn
+Current Foundations
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>Further Learning
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 </p>
 
 ---
 
-## 🧩 Computer Science Fundamentals
+### 🗄️ Database Management
 
-- Object-Oriented Programming (OOP) — C++
-- Data Structures and Algorithms (DSA) — C
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/DBMS-34495E?style=for-the-badge" alt="DBMS" />
+</p>
+
+- Relational database concepts
+- SQL queries and operations
+- DBMS fundamentals
+
+Further learning: MySQL, PostgreSQL and MongoDB.
+
+---
+
+### 🧩 Computer Science Fundamentals
+
+- Data Structures and Algorithms — C
+- Object-Oriented Programming — C++
 - Programming logic and problem-solving
-- Database Management Systems (DBMS)
+- Database Management Systems
 - SQL fundamentals
 - Software development concepts
 
 ---
 
-## 🛠️ Developer Tools & Platforms
+### 🛠️ Developer Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -193,127 +172,109 @@ I'm interested in understanding and building applications with modern AI technol
 
 ---
 
-## 🏆 Learning & Academic Highlights
+### 🏆 Academic & Learning Highlights
 
-### NPTEL — Introduction to Machine Learning
+NPTEL — Introduction to Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/NPTEL-IIT_Madras-1F4E79?style=for-the-badge" alt="NPTEL IIT Madras" />
-  <img src="https://img.shields.io/badge/Exam_Score-60%25-2E8B57?style=for-the-badge" alt="60 percent exam score" />
+  <img src="https://img.shields.io/badge/Exam_Score-60%25-2E8B57?style=for-the-badge" alt="Exam Score 60 percent" />
 </p>
 
 - Course: Introduction to Machine Learning
 - Institution: IIT Madras
-- Exam score: **60%**
+- Exam Score: 60%
 
 ---
 
-## 🌟 Projects & Practical Experience
+### 🌟 Projects & Practical Experience
 
-I believe in learning by building. My portfolio reflects my progress through practical Python applications and analytical projects using real-world datasets.
+My portfolio currently includes four data science mini-projects and six Python console applications developed to strengthen programming and analytical foundations.
 
-### 📊 Data Science Projects
+# 📊 Data Science Mini Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚲 Bike Sharing Demand Analysis</h3>
-      <p><strong>NumPy | Python | Data Analysis</strong></p>
-      <p>Analysed real-world bike-sharing data from 2011–2012 to investigate rental demand, seasonal variations, hourly patterns, customer segments, and weather-related relationships.</p>
-      <p><strong>Key Highlights</strong></p>
-      <ul>
-        <li>Seasonal and hourly demand analysis</li>
-        <li>Customer segmentation</li>
-        <li>Statistical calculations</li>
-        <li>Correlation analysis</li>
-        <li>Business insights and recommendations</li>
-      </ul>
-      <p><a href="https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/01_NumPy/Bike_Sharing_Analysis">🔗 Explore Project</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 World Happiness & Quality of Life Analysis</h3>
-      <p><strong>Python | Matplotlib | Data Visualization</strong></p>
-      <p>Explored the World Happiness Report 2024 dataset to understand global happiness patterns, regional differences, and relationships between quality-of-life indicators.</p>
-      <p><strong>Key Highlights</strong></p>
-      <ul>
-        <li>Country and regional comparisons</li>
-        <li>Statistical distribution analysis</li>
-        <li>Outlier analysis</li>
-        <li>Correlation analysis</li>
-        <li>Visual storytelling through charts</li>
-      </ul>
-      <p><a href="https://github.com/aswinkumarv23451-cpu/data-science-practice/blob/main/mini_projects/02_Matplotlib/README.md">🔗 Explore Project</a></p>
-    </td>
-  </tr>
-</table>
+## 01. Bike Sharing Demand Analysis
+
+NumPy | Matplotlib | Python
+
+Analyzed bike-sharing data from 2011–2012 to understand rental demand, seasonal variations, hourly patterns, customer segments and weather-related relationships.
+
+Highlights: Numerical analysis, demand patterns, correlation analysis and business recommendations.
+
+#### [Explore Project](https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/01_NumPy/Bike_Sharing_Analysis)
+
+## 02. World Happiness & Quality of Life Analysis
+
+NumPy | Matplotlib | Python
+
+Explored the 2024 World Happiness dataset across 140 countries, examining regional differences and relationships between happiness and quality-of-life indicators.
+
+Highlights: Statistical analysis, country comparisons, correlation and outlier detection.
+
+#### [Explore Project](https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/02_Matplotlib/World_Happiness_Analysis)
+
+## 03. Student Performance Analysis
+
+Pandas | Matplotlib | Seaborn
+
+Investigated student performance data to explore relationships between academic results, lifestyle factors and student characteristics through exploratory and statistical visualization.
+
+Highlights: Data exploration, distributions, comparisons and correlation analysis.
+
+#### [Explore Project](https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/03_Seaborn/Student_Performance_Analysis)
+
+## 04. RetailIQ — E-Commerce Business Intelligence
+
+Pandas | NumPy | Matplotlib | Seaborn
+
+Analyzed the UCI Online Retail dataset to investigate sales performance, monthly revenue trends, product performance and customer purchasing behaviour.
+
+Highlights: Data cleaning, sales analytics, product analysis and RFM-based customer segmentation.
+
+#### [Explore Project](https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/04_Pandas/RetailIQ)
+
+### 📈 Visualization Practice
+
+Matplotlib Visualization Lab
+
+A collection of practical exercises covering chart creation, plot customization, subplots and visual communication.
+
+#### [Explore Visualization Lab](https://github.com/aswinkumarv23451-cpu/data-science-practice/tree/main/mini_projects/02_Matplotlib/Matplot_Visualization_Lab)
 
 ### 🐍 Python Console Applications
 
-Six beginner-level applications developed to practise Python fundamentals, logic building, and interactive programming.
+Six foundational applications developed to practise core Python concepts, logical thinking and interactive programming.
 
-| # | Application | Concepts Practised |
+|#| Application| Concepts Practised|
 |---|---|---|
-| 01 | MCQ Quiz System | Conditions, scoring, user interaction |
-| 02 | Food Ordering System | Input handling, calculations, logic |
-| 03 | Dice Roller | Random module, loops |
-| 04 | Rock Paper Scissors | Conditions, random module |
-| 05 | Number Guessing Game | Loops, conditions, random module |
-| 06 | Countdown Program | Loops, time handling |
+|01| MCQ Quiz System| Conditions, scoring and user interaction|
+|02| Food Ordering System| Input handling, calculations and logic|
+|03| Dice Roller| Random module and loops|
+|04| Rock Paper Scissors| Conditions and random module|
+|05| Number Guessing Game| Loops, conditions and random module|
+|06| Countdown Program| Loops and time handling|
 
-### 🚀 Upcoming Major Project
+These applications provided a foundation for progressing towards data analysis and larger Python projects.
 
-My next milestone is to develop a comprehensive, real-world Data Science project that combines multiple technologies, analytical techniques, and practical problem-solving.
-
-🔗 [Explore My Data Science Repository](https://github.com/aswinkumarv23451-cpu/data-science-practice)
+##### [Explore My GitHub Repositories](https://github.com/aswinkumarv23451-cpu?tab=repositories)
 
 ---
 
-## 📚 Current Learning Roadmap
+#### 📚 Current Learning Roadmap
 
-| Area | Focus |
+|Area| Focus |
 |---|---|
-| Programming | Strengthening Python, C, C++, and Java fundamentals |
-| Data Science | Pandas, Seaborn, and advanced data analysis |
-| Major Project | Building an end-to-end Data Science application |
-| Web Development | React, Node.js, and Express.js |
-| Machine Learning | Algorithms, model building, and evaluation |
-| Generative AI | LLMs, RAG, Hugging Face, and Agentic AI |
-| Databases | PostgreSQL and practical database development |
-| Computer Science | DSA, OOP, and problem-solving |
+|Programming| Strengthening Python, C, C++ and Java|
+|Data Science| Advanced Pandas, NumPy and statistical analysis|
+|Machine Learning| Algorithms, model building and evaluation|
+|Generative AI| LLMs, RAG, Hugging Face and AI agents|
+|Web Development| React, Node.js and Express.js|
+|Databases| SQL, MySQL and PostgreSQL|
+|Computer Science| DSA, OOP and problem-solving|
 
 ---
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=aswinkumarv23451-cpu&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-    width="49%"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=aswinkumarv23451-cpu&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aswinkumarv23451-cpu?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/Explore-GitHub_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore GitHub Repositories"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <em>Consistently learning, contributing, and building projects.</em>
-</p>
-
----
-
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="https://github.com/aswinkumarv23451-cpu">
@@ -322,7 +283,6 @@ My next milestone is to develop a comprehensive, real-world Data Science project
   <a href="https://www.linkedin.com/in/aswin-kumar-v-740724426/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+</p><p align="center">
+  <em>Learn consistently. Build practically. Improve continuously.</em>
 </p>
